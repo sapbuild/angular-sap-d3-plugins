@@ -1,7 +1,7 @@
 {
   "title": "angular-sap-d3-plugins",
   "name": "angular-sap-d3-plugins",
-  "version": "0.1.1",
+  "version": "0.3.0",
   "description": "Repository for sangular sap d3 plugins,original URL is https://github.com/d3/d3-plugins",
   "author": {
     "name": "Mike Bostock",
