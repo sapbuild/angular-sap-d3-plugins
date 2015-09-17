@@ -9,3 +9,12 @@ angular-sap-d3-plugins
 Copy of d3-plugins for Norman
 
 Original repository for d3-plugins:https://github.com/d3/d3-plugins
+
+
+
+# BUILD on GitHub
+
+[Click here](https://github.com/SAP/BUILD) to visit the central BUILD project on GitHub, where you can find out more!
+
+[Click here](https://github.com/SAP/BUILD/blob/master/Contributing.md) to view the BUILD Contribution Guidelines. 
+
